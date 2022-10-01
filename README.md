@@ -1,6 +1,5 @@
-# Readme.md
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
-<h1 align="center">Hola 👋, I'm Kartik</h1>
+<h1 align="center">Hola 👋, I'm Kartik!!</h1>
 <h3 align="center">A multidisciplinary Full-Stack developer! </h3>
 
 
