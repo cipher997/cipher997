@@ -4,11 +4,8 @@
 
 
 - 👀 I’m interested in Fullstack Development and coding culture.
-
 - 🌱 I’m a Development practitioner.
-
 - 🙋🏻‍♂️ I’m looking to collaborate on industrial levels.
-
 - 📩 How to reach me --> **kartik97gaikwad@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cipher997&label=Profile%20views&color=0e75b6&style=flat" alt="kimjayden" /> </p>
