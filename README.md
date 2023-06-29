@@ -1,5 +1,5 @@
 <h1 align="right">👋 I'm Kartik!!</h1>
-<img align="center" alt="Coding" width="350" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
+<img align="left" alt="Coding" width="350" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=15&pause=1000&color=000000&background=EFF1F300&vCenter=true&width=500&lines=+A+Multidisciplinary+Full-Stack+developer!;Transforming+concepts+into+reality..;+Unleashing+the+power+of+React.js+and+beyond!;Elevating+software+solutions..;+Crafting+seamless+digital+experiences." alt="Typing SVG" /></a>
 
 
