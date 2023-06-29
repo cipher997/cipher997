@@ -11,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/kartik10gaikwad" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cipher" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/er-kartikgaikwad/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhiraj-tandulkar" height="30" width="40" /></a>
+<a href="https://twitter.com/kartik10gaikwad" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Kartik Gaikwad" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/er-kartikgaikwad/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kartik Gaikwad" height="30" width="40" /></a>
 
 </p>
 
