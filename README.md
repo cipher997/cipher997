@@ -1,6 +1,6 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
+<h1 align="left">Hola 👋, I'm Kartik!!</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=15&pause=1000&color=1A1A1A&background=EEEEEE&center=true&vCenter=true&width=500&lines=A+Multidisciplinary+Full-Stack+Developer+!;+Transforming+concepts+into+reality..;Elevating+software+solutions+!;Unleashing+the+power+of+React.js+and+beyond..;Crafting+seamless+engaging+experiences+!" alt="Typing SVG" /></a>
-<h1 align="center">Hola 👋, I'm Kartik!!</h1>
 
 
 - 👀 I’m interested in Fullstack Development and coding culture.
