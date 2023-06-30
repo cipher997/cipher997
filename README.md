@@ -3,7 +3,7 @@
 
 
 <p>
-  I'm a passionate full-stack developer and innovative visionary, shaping my vision of the digital realm one step at a time. Each coding project I undertake is meticulously crafted, starting from meticulous planning and captivating design, and culminating in pragmatic solutions that tackle real-life challenges with the power of code. Embracing the art of development, I strive to create immersive experiences that seamlessly blend functionality and creativity. With a commitment to excellence, I constantly push the boundaries of what is possible, delivering cutting-edge solutions that make a meaningful impact. Together, let's build a digital landscape that inspires and empowers users across the globe.
+   I'm a passionate full-stack developer and innovative visionary, shaping my vision of the digital realm one step at a time. Each coding project I undertake is meticulously crafted, starting from meticulous planning and captivating design, and culminating in pragmatic solutions that tackle real-life challenges with the power of code. Embracing the art of development, I strive to create immersive experiences that seamlessly blend functionality and creativity. With a commitment to excellence, I constantly push the boundaries of what is possible, delivering cutting-edge solutions that make a meaningful impact. Together, let's build a digital landscape that inspires and empowers users across the globe.
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cipher997&label=Profile%20views&color=0e75b6&style=flat" alt="kimjayden" /> </p>
