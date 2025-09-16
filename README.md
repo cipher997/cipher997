@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Kartik 👋</h1>
-<h3 align="center">A Multidisciplinary Full-Stack Developer from India 🇮🇳</h3>
+<h3 align="center">A Multidisciplinary Software Engineer from India 🇮🇳</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=000000&center=true&width=440&lines=A+Multidisciplinary+Full-Stack+Developer!;Transforming+Concepts+into+Reality.;Unleashing+the+Power+of+React.js+and+Beyond!;Crafting+Seamless+Digital+Experiences." alt="Typing SVG" />
