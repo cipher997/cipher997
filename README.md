@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Kartik 👋</h1>
-<h3 align="center">A Multidisciplinary Software Engineer from India 🇮🇳</h3>
+<h3 align="center">A Multidisciplinary Software Engineer from India!</h3>
 
 ---
 
