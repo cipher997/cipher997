@@ -48,22 +48,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" height="40" width="40" alt="Mocha" />
   <img src="https://www.chartjs.org/media/logo-title.svg" height="40" width="40" alt="ChartJS" />
 </p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cipher997&show_icons=true&theme=default" alt="Kartik's GitHub stats" />
-  <br />
-  <img src="https://komarev.com/ghpvc/?username=cipher997&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
----
-
-### ✨ Let’s Build Something Great Together
-
-Whether it’s front-end magic ✨ or back-end logic 🧠, I’m all in. Let’s collaborate and innovate!
-
----
-
