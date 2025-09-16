@@ -1,27 +1,10 @@
 <h1 align="center">Hi there, I'm Kartik 👋</h1>
 <h3 align="center">A Multidisciplinary Software Engineer from India 🇮🇳</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=000000&center=true&width=440&lines=A+Multidisciplinary+Full-Stack+Developer!;Transforming+Concepts+into+Reality.;Unleashing+the+Power+of+React.js+and+Beyond!;Crafting+Seamless+Digital+Experiences." alt="Typing SVG" />
-</p>
-
 ---
 
 <p>
    I'm a passionate full-stack developer and innovative visionary, shaping my vision of the digital realm one step at a time. Each coding project I undertake is meticulously crafted, starting from meticulous planning and captivating design, and culminating in pragmatic solutions that tackle real-life challenges with the power of code. Embracing the art of development, I strive to create immersive experiences that seamlessly blend functionality and creativity. With a commitment to excellence, I constantly push the boundaries of what is possible, delivering cutting-edge solutions that make a meaningful impact. Together, let's build a digital landscape that inspires and empowers users across the globe.
-</p>
-
----
-
-### 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://twitter.com/kartik10gaikwad" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter" height="30" width="30" />
-  </a>
-  <a href="https://www.linkedin.com/in/kartik10gaikwad/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="LinkedIn" height="30" width="30" />
-  </a>
 </p>
 
 ---
